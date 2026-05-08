@@ -20,7 +20,7 @@
 
 <!-- About Me Section -->
 <div align="center">
-<h2>🌟 About Me</h2>
+<h2>About Me</h2>
 </div>
 
 ```kotlin
@@ -29,10 +29,10 @@ data class Developer(
     val role: String = "UI/UX Designer & Creative Developer",
     val location: String = "Indonesia 🇮🇩",
     val passions: List<String> = listOf(
-        "🎨 Designing intuitive user interfaces",
-        "✨ Crafting pixel-perfect experiences",
-        "📱 Building beautiful mobile apps",
-        "🌐 Creating engaging web solutions"
+        "Designing intuitive user interfaces",
+        "Crafting pixel-perfect experiences",
+        "Building beautiful mobile apps",
+        "Creating engaging web solutions"
     ),
     val currentlyLearning: String = "Advanced Motion Design & Micro-interactions",
     val lookingFor: String = "Collaborations on innovative design-driven projects",
@@ -44,10 +44,10 @@ data class Developer(
 
 <!-- Skills Section -->
 <div align="center">
-<h2>🛠️ Tech Stack & Skills</h2>
+<h2>Tech Stack & Skills</h2>
 </div>
 
-### 🎨 Design & UI/UX
+### Design & UI/UX
 
 <div align="center">
 
@@ -60,7 +60,7 @@ data class Developer(
 
 </div>
 
-### 💻 Programming Languages
+### Programming Languages
 
 <div align="center">
 
@@ -71,7 +71,7 @@ data class Developer(
 
 </div>
 
-### 🚀 Frameworks & Tools
+### Frameworks & Tools
 
 <div align="center">
 
@@ -89,7 +89,7 @@ data class Developer(
 
 <!-- GitHub Stats Section -->
 <div align="center">
-<h2>📊 GitHub Statistics</h2>
+<h2>GitHub Statistics</h2>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zingha00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zingha00&theme=tokyonight&hide_border=true&background=0D1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" />
@@ -104,161 +104,12 @@ data class Developer(
 
 <!-- Activity Graph -->
 <div align="center">
-<h2>📈 Contribution Graph</h2>
+<h2>Contribution Graph</h2>
 
 [![zingha00's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zingha00&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
-
-<!-- Mini Games Section -->
-<div align="center">
-<h2>🎮 Fun & Games</h2>
-<p><i>Check out these interactive games on my profile!</i></p>
-</div>
-
-### 🐍 Snake eating my Contributions!
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zingha00/zingha00/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zingha00/zingha00/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/zingha00/zingha00/output/github-snake.svg" />
-</picture>
-
-</div>
-
-> 💡 **Setup Snake Game**: Add this to your GitHub Actions (`.github/workflows/snake.yml`):
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{cron: "0 0 * * *"}]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
----
-
-### 🎯 Design Philosophy Game — "Guess My Choice!"
-
-<div align="center">
-
-> **Can you think like a designer?**  
-> *What's the FIRST thing you should define when starting a new UI project?*
-
-| Option | Your Choice? |
-|--------|:---:|
-| 🎨 Color Palette | |
-| 👤 **User Persona & Pain Points** | ✅ |
-| 📐 Grid System | |
-| 🔤 Typography | |
-
-*Answer: **User Persona!** Great UX always starts with understanding the human, not the aesthetics.*
-
-</div>
-
----
-
-### 🧩 Code Challenge — Fix the Bug!
-
-<div align="center">
-<p><b>Can you find the bug in this Kotlin code? 🤔</b></p>
-</div>
-
-```kotlin
-// 🐛 Find the bug!
-fun calculateDiscount(price: Double, discount: Int): Double {
-    val discountAmount = price * discount / 100    // Line A
-    return price - discountAmount                   // Line B
-}
-
-// Test: calculateDiscount(100.0, "20") // ← What's wrong here?
-```
-
-<details>
-<summary>💡 Click to reveal the answer!</summary>
-
-```kotlin
-// ✅ Fixed version — Type safety issue!
-// The function expects Int but "20" (String) would cause a compile error
-// Always validate input types in Kotlin!
-
-fun calculateDiscount(price: Double, discount: Double): Double {
-    val discountAmount = price * (discount / 100.0)
-    return price - discountAmount
-}
-
-// Better with input validation:
-fun calculateDiscountSafe(price: Double, discount: Double): Double {
-    require(discount in 0.0..100.0) { "Discount must be between 0 and 100" }
-    return price * (1 - discount / 100.0)
-}
-```
-
-</details>
-
----
-
-### 🎨 Design Challenge — Color Theory Quiz!
-
-<div align="center">
-<p><b>What color combination creates the highest contrast for accessibility? 🎨</b></p>
-</div>
-
-<details>
-<summary>🔵 Option A: Dark Blue (#003087) on White</summary>
-Contrast Ratio: ~12:1 ✅ Excellent! Passes WCAG AAA
-</details>
-
-<details>
-<summary>🟡 Option B: Yellow (#FFFF00) on White</summary>
-Contrast Ratio: ~1.07:1 ❌ Terrible! Fails WCAG
-</details>
-
-<details>
-<summary>⚫ Option C: Black (#000000) on White</summary>
-Contrast Ratio: ~21:1 🏆 Maximum contrast! Best for readability
-</details>
-
-<details>
-<summary>🔴 Option D: Red (#FF0000) on Green</summary>
-Contrast Ratio: ~2.91:1 ❌ Fails WCAG + problematic for color blindness
-</details>
-
----
-
-<!-- Current Projects -->
-<div align="center">
-<h2>🔭 What I'm Working On</h2>
-</div>
-
-```javascript
-const currentProjects = {
-  main: "🎨 Building a Design System Library with PHP & JS",
-  mobile: "📱 Android App with Kotlin + Material You Design",
-  learning: "🌱 Advanced Framer Motion & GSAP Animations",
-  open_to: "🤝 UI/UX Design Collaborations & Freelance Projects"
-};
-```
-
----
 
 <!-- Design Showcase -->
 <div align="center">
@@ -282,12 +133,12 @@ const currentProjects = {
 </div>
 
 ```
-UI/UX Design     ████████████████████  98%  🎨
+UI/UX Design      ████████████████████  98%  🎨
 Figma/Prototyping ███████████████████░  94%  ✏️
-PHP              ████████████████░░░░  80%  🐘
-JavaScript       ████████████████░░░░  80%  ⚡
-Kotlin           ██████████████░░░░░░  70%  📱
-Java             █████████████░░░░░░░  65%  ☕
+PHP               ████████████████░░░░  80%  🐘
+JavaScript        ████████████████░░░░  80%  ⚡
+Kotlin            ██████████████░░░░░░  70%  📱
+Java              █████████████░░░░░░░  65%  ☕
 ```
 
 ---
@@ -321,9 +172,9 @@ Java             █████████████░░░░░░░  6
 <!-- Hidden Easter Egg -->
 <!--
   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-  You found a hidden message! 🎉
+  You found a hidden message! 
   "The best code is the code you never have to look at twice."
-  Keep designing, keep building, keep creating! ✨
+  Keep designing, keep building, keep creating! 
   - zingha00
   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 -->
