@@ -9,8 +9,8 @@
 <br/>
 
 <!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=zingha00&label=Profile%20Views&color=a855f7&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/zingha00?label=Followers&style=for-the-badge&color=a855f7)](https://github.com/zingha00)
+![Profile Views](https://komarev.com/ghpvc/?username=zingha00&label=Profile%20Views&color=a855f7&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/zingha00?label=Followers&style=flat-square&color=a855f7)](https://github.com/zingha00)
 
 </div>
 
@@ -32,6 +32,10 @@ data class Developer(
         "Building beautiful mobile apps",
         "Creating engaging web solutions"
     ),
+    val currentlyLearning: String = "Advanced Motion Design & Micro-interactions",
+    val lookingFor: String = "Collaborations on innovative design-driven projects",
+    val funFact: String = "Saya pake rupiah bukan dolar 💸"
+    
     val currentlyLearning: String = "Advanced Motion Design & Micro-interactions",
     val lookingFor: String = "Collaborations on innovative design-driven projects",
     val funFact: String = "I think in pixels and dream in wireframes 💭"
