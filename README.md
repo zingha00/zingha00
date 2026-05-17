@@ -19,13 +19,8 @@
 <!-- About Me Section -->
 <div align="center">
 
-<h1>🧔 Saya Pria Gak Pake Dolar</h1>
+<h1>PRIA TANPA DOLAR</h1>
 
-<br/>
-
-> *Desain kelas dunia, bayarnya pake Rupiah* 🇮🇩💸
-
-</div>
 
 ---
 
