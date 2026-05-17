@@ -1,41 +1,14 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  HEADER BANNER                                             -->
-<!--  Ganti URL di bawah dengan banner buatan sendiri di Figma  -->
-<!--  atau gunakan: https://capsule-render.vercel.app           -->
-<!--  Ukuran ideal: 1200 × 200 px, format PNG/SVG              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0f0f14,1a1a2e,16213e&height=200&section=header&text=zingha00&fontSize=64&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20%26%20Creative%20Developer&descSize=16&descAlignY=60&descColor=94a3b8)
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0f0f14,1a1a2e,16213e&height=180&section=header&text=zingha00&fontSize=64&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20%26%20Creative%20Developer&descSize=16&descAlignY=60&descColor=94a3b8"
-  width="100%"
-  alt="zingha00 — UI/UX Designer & Creative Developer"
-/>
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!--  FOTO PROFIL                                       -->
-<!--  Opsi 1 — dari GitHub:                            -->
-<!--    src="https://github.com/zingha00.png"           -->
-<!--  Opsi 2 — dari Google Drive (harus publik):       -->
-<!--    src="https://drive.google.com/uc?id=FILE_ID"    -->
-<!--  Opsi 3 — dari file lokal di repo:               -->
-<!--    src="./assets/avatar.png"                       -->
-<!-- ═══════════════════════════════════════════════════ -->
+<a href="https://github.com/zingha00">
+  <img src="https://github.com/zingha00.png" width="110" style="border-radius: 50%" />
+</a>
 
 <br/>
 
-<img
-  src="https://github.com/zingha00.png"
-  width="100"
-  style="border-radius:50%;"
-  alt="Avatar zingha00"
-/>
-
-<br/><br/>
-
-[![Visitors](https://komarev.com/ghpvc/?username=zingha00&label=Profile+Views&color=1e293b&style=flat-square)](https://github.com/zingha00)
-&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=zingha00&label=Profile+Views&color=1e293b&style=flat-square)
 [![Followers](https://img.shields.io/github/followers/zingha00?label=Followers&style=flat-square&color=1e293b)](https://github.com/zingha00?tab=followers)
 
 </div>
@@ -57,13 +30,13 @@ data class Developer(
     val learning    : String = "Motion design & micro-interactions",
     val funFact     : String = "I think in pixels and dream in wireframes."
 )
-` ` `
+```
 
 ---
 
 ## Stack
 
-### Design
+### 🎨 Design
 
 ![Figma](https://img.shields.io/badge/Figma-1e293b?style=flat-square&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-1e293b?style=flat-square&logo=adobexd&logoColor=white)
@@ -72,7 +45,7 @@ data class Developer(
 ![Framer](https://img.shields.io/badge/Framer-1e293b?style=flat-square&logo=framer&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-1e293b?style=flat-square&logo=canva&logoColor=white)
 
-### Development
+### 💻 Development
 
 ![PHP](https://img.shields.io/badge/PHP-1e293b?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=flat-square&logo=javascript&logoColor=white)
@@ -82,7 +55,7 @@ data class Developer(
 ![Android](https://img.shields.io/badge/Android-1e293b?style=flat-square&logo=android&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=white)
 
-### Tools
+### 🛠️ Tools
 
 ![Git](https://img.shields.io/badge/Git-1e293b?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-1e293b?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -101,31 +74,26 @@ data class Developer(
 
 <br/>
 
+| Skill | Level | |
+|---|---|---|
+| UI/UX Design | `████████████████████` | 98% |
+| Figma & Prototyping | `███████████████████░` | 94% |
+| PHP | `████████████████░░░░` | 80% |
+| JavaScript | `████████████████░░░░` | 80% |
+| Kotlin | `██████████████░░░░░░` | 70% |
+| Java | `█████████████░░░░░░░` | 65% |
+
 ---
 
 ## GitHub Stats
 
 <div align="center">
 
-<img
-  height="160"
-  src="https://github-readme-stats.vercel.app/api?username=zingha00&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f0f14&title_color=94a3b8&icon_color=64748b&text_color=e2e8f0&count_private=true"
-  alt="GitHub Stats"
-/>
-&nbsp;
-<img
-  height="160"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=zingha00&theme=github-dark-blue&hide_border=true&background=0f0f14&ring=64748b&fire=94a3b8&currStreakLabel=94a3b8"
-  alt="GitHub Streak"
-/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zingha00&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f0f14&title_color=94a3b8&icon_color=64748b&text_color=e2e8f0&count_private=true)
 
-<br/><br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=zingha00&theme=github-dark-blue&hide_border=true&background=0f0f14&ring=64748b&fire=94a3b8&currStreakLabel=94a3b8)
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zingha00&layout=compact&theme=github_dark&hide_border=true&bg_color=0f0f14&title_color=94a3b8&text_color=e2e8f0&langs_count=6"
-  alt="Top Languages"
-  height="140"
-/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zingha00&layout=compact&theme=github_dark&hide_border=true&bg_color=0f0f14&title_color=94a3b8&text_color=e2e8f0&langs_count=6)
 
 </div>
 
@@ -135,7 +103,7 @@ data class Developer(
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zingha00&bg_color=0f0f14&color=94a3b8&line=475569&point=e2e8f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zingha00&bg_color=0f0f14&color=94a3b8&line=475569&point=e2e8f0&area=true&hide_border=true)
 
 </div>
 
@@ -165,18 +133,6 @@ data class Developer(
 
 <br/>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0f0f14,1a1a2e,16213e&height=100&section=footer"
-  width="100%"
-  alt="footer"
-/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0f0f14,1a1a2e,16213e&height=100&section=footer)
 
 </div>
-```
-
----
-
-**Catatan penting saat paste ke VS Code:**
-- Hapus spasi di ` ` ` (backtick penutup blok kotlin) — saya tambahkan spasi agar tidak merusak tampilan di chat. Di file aslinya sudah benar (lihat file yang bisa didownload di atas).
-- Simpan file dengan nama persis `README.md` di root repo GitHub kamu (bukan di dalam folder).
-- Untuk foto profil, bagian `src="https://github.com/zingha00.png"` sudah otomatis mengambil foto profil GitHub kamu — tidak perlu diubah.
