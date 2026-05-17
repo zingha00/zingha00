@@ -90,17 +90,26 @@
 
 <!-- Design Showcase -->
 <div align="center">
-<h2>Design Principles I Live By</h2>
+<h2> Design Principles I Live By</h2>
 
-| Principle | Philosophy |
+|  Principle |  Philosophy |
 |---|---|
 | **User First** | Every pixel serves a purpose for the user |
 | **Less is More** | Remove until you can't remove anymore |
 | **Consistency** | One system, infinite possibilities |
 | **Accessibility** | Design for everyone, always |
-| **Delight** | The best interfaces feel like magic |
+| **Delight** | The best interfaces feel like magic  |
 
 </div>
+
+---
+
+<!-- Skill Progress Bars -->
+<div align="center">
+<h2>Skill Levels</h2>
+</div>
+
+```
 
 ```
 
@@ -122,7 +131,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zingha00)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zingha.z.z?igsh=aWpkNXQ5amhwMXho)
-
 
 <br/>
 
