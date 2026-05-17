@@ -19,16 +19,15 @@
 <!-- About Me Section -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
+<h1>🧔 Saya Pria Gak Pake Dolar</h1>
 
 <br/>
-╔═══════════════════════════════════════╗
-║                                       ║
-║       S A Y A   G A K                 ║
-║       P A K E   D O L A R  💸         ║
-║                                       ║
-╚═══════════════════════════════════════╝
 
+> *Desain kelas dunia, bayarnya pake Rupiah* 🇮🇩💸
+
+</div>
+
+---
 
 <!-- Skills Section -->
 <div align="center">
