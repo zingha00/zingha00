@@ -90,39 +90,25 @@
 
 <!-- Design Showcase -->
 <div align="center">
-<h2>🎨 Design Principles I Live By</h2>
+<h2>Design Principles I Live By</h2>
 
-| 🎯 Principle | 💭 Philosophy |
+| Principle | Philosophy |
 |---|---|
 | **User First** | Every pixel serves a purpose for the user |
 | **Less is More** | Remove until you can't remove anymore |
 | **Consistency** | One system, infinite possibilities |
 | **Accessibility** | Design for everyone, always |
-| **Delight** | The best interfaces feel like magic ✨ |
+| **Delight** | The best interfaces feel like magic |
 
 </div>
 
----
-
-<!-- Skill Progress Bars -->
-<div align="center">
-<h2>⚡ Skill Levels</h2>
-</div>
-
-```
-UI/UX Design      ████████████████████  98%  🎨
-Figma/Prototyping ███████████████████░  94%  ✏️
-PHP               ████████████████░░░░  80%  🐘
-JavaScript        ████████████████░░░░  80%  ⚡
-Kotlin            ██████████████░░░░░░  70%  📱
-Java              █████████████░░░░░░░  65%  ☕
 ```
 
 ---
 
 <!-- Random Dev Quote -->
 <div align="center">
-<h2>💭 Dev Quote of the Day</h2>
+<h2>Dev Quote of the Day</h2>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Design+is+not+just+what+it+looks+like+and+feels+like.+Design+is+how+it+works.&author=Steve+Jobs)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -132,13 +118,11 @@ Java              █████████████░░░░░░░  
 
 <!-- Connect Section -->
 <div align="center">
-<h2>🌐 Let's Connect!</h2>
+<h2>Let's Connect!</h2>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zingha00)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zingha00)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zingha00)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/zingha00)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/zingha00)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zingha.z.z?igsh=aWpkNXQ5amhwMXho)
+
 
 <br/>
 
