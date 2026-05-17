@@ -18,31 +18,17 @@
 
 <!-- About Me Section -->
 <div align="center">
-<h2>About Me</h2>
-</div>
 
-```kotlin
-data class Developer(
-    val name: String = "zingha00",
-    val role: String = "UI/UX Designer & Creative Developer",
-    val location: String = "Indonesia 🇮🇩",
-    val passions: List<String> = listOf(
-        "Designing intuitive user interfaces",
-        "Crafting pixel-perfect experiences",
-        "Building beautiful mobile apps",
-        "Creating engaging web solutions"
-    ),
-    val currentlyLearning: String = "Advanced Motion Design & Micro-interactions",
-    val lookingFor: String = "Collaborations on innovative design-driven projects",
-    val funFact: String = "Saya pake rupiah bukan dolar 💸"
-    
-    val currentlyLearning: String = "Advanced Motion Design & Micro-interactions",
-    val lookingFor: String = "Collaborations on innovative design-driven projects",
-    val funFact: String = "I think in pixels and dream in wireframes 💭"
-)
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
 
----
+<br/>
+╔═══════════════════════════════════════╗
+║                                       ║
+║       S A Y A   G A K                 ║
+║       P A K E   D O L A R  💸         ║
+║                                       ║
+╚═══════════════════════════════════════╝
+
 
 <!-- Skills Section -->
 <div align="center">
